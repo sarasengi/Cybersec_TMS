@@ -1,7 +1,7 @@
 Урок 3
 ДЗ
 
-![На Windows Server 2022 ssh-сервер включён](winserver_sshserv_enable.png)
+!(winserver_sshserv_enable.png)
 
 ![На Windows 10 pro включён ssh-сервер](win10_sshserv_enable.png)
 
