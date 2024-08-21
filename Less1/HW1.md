@@ -3,20 +3,21 @@
 ![](pics/Lesson1-DZ.jpg)
 
 По техническим причинам не имею возможности держать VirtualBox с тремя виртуальными машинами.
-<br>Поэтому решением стали 3 VPS (Virtual Private Server) у хостера:
+<br>Поэтому решением стали 3 VPS (Virtual Private Server) у хостера, живущих на нодах с виртуализацией KVM:
 
-
-VPS с Kali на ноде с KVM (не стала иксы поднимать).
+### <p align="center"> _VPS с Kali_ </p>
 <br>**Ресурсы:**
 ```3 vcpu, 40 Gb HDD, 4 Gb RAM```<br>
 ![](pics/VPS_kali.jpg)
 
-VPS с Windows server 2022
+
+### <p align="center"> _VPS с Windows server 2022_ </p>
 <br>**Ресурсы:**
 ```6 vcpu, 40 Gb HDD, 4 Gb RAM```<br>
 ![](pics/VPS_Win2022serv.jpg)
 
-VPS с Windows 10 Pro
+
+### <p align="center"> _VPS с Windows 10 Pro_ </p>
 <br>**Ресурсы:**
 ```4 vcpu, 40 Gb HDD, 4 Gb RAM```<br>
 ![](pics/VPS_Win10pro.jpg)
