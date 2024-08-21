@@ -1,6 +1,6 @@
 Сборник домашних заданий и лекций курса по безопасности:
 
-### [Урок 1 (Введение)](Less1/README.md)
-### [Урок 2 (Виртуализация)](Less2/README.md)
-### [Урок 3 (Kali-linux)](Less3/README.md)
-### [Урок 4 (Основы сетей)](Less4/README.md)
+### [1 (Введение)](Less1/README.md)
+### [2 (Виртуализация)](Less2/README.md)
+### [3 (Kali-linux)](Less3/README.md)
+### [4 (Основы сетей)](Less4/README.md)
