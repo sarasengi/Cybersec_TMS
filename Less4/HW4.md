@@ -85,3 +85,6 @@ _Модель OSI (Open Systems Interconnection) - это описание то�
 - [Cisco Packet Tracer v 7.3.2 (without registration) for Win_x64](https://disk.yandex.by/d/js-2W_c51Q-u_Q)
 - [Cisco Networking video course](https://disk.yandex.by/d/NF4UJCOn9AnnBg)
 - [Binary games Cisco](https://learningcontent.cisco.com/games/binary/index.html)
+
+
+![](pics/CPT.png)
