@@ -1,6 +1,6 @@
 # Домашняя работа №4
 
-# **Сети, маршрутизация. Часть 1**<br>
+## **Сети, маршрутизация. Часть 1**<br>
 OSI/DOD-TCP/IP models, IPv4, IPv6, Subnets, NAT, Cisco Packet tracer
 
 ### 1. Выложить свои ДЗ в виде проекта Github
