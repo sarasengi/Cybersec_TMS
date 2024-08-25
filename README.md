@@ -5,3 +5,4 @@
 ### [3 - Kali-linux](Less3/README.md)
 ### [4 - Основы сетей](Less4/README.md)
 ### [5 - Network security](Less5/README.md)
+### [6 - Криптография](Less6/README.md)
