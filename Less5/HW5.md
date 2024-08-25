@@ -19,8 +19,6 @@ DNS, DHCP, WAN, LAN, VLAN, Cisco Packet tracer
   - Настроить сеть, добиться echo ping запросов между хостами
   - Проследить на симуляции за пакетом ICMP
 
-*На 1 из сторон заменить хост на сервер, настроить на сервере web страничку, настроить NAT на роутере, добиться доступа по NAT inside global адресу к web серверу 
-
 Вот моя схема:<br>
 ![](pics/CPT1.png)<br>
 - На PC HardWorker поднят IP 10.20.30.4/24 gw 10.20.30.1
@@ -36,7 +34,12 @@ DNS, DHCP, WAN, LAN, VLAN, Cisco Packet tracer
 ![](pics/PC.png)<br>
 ![](pics/nout.png)<br>
 
+*На 1 из сторон заменить хост на сервер, настроить на сервере web страничку, настроить NAT на роутере, добиться доступа по NAT inside global адресу к web серверу 
 
+На сервере (10.20.31.88) включила службу HTTP (точнее, она уже там итак была включена)<br>
+![](pics/server_http.png)<br>
+Подправила файл index.html, открыла ссылку http://10.20.31.88/index.html на компе HardWorker (10.20.30.4)<br>
+![](pics/site.png)<br>
 
 ### Ссылки на дополнительные ресурсы
   [Настройка DNS Windows server 2019](https://ispserver.ru/help/nastroyka-sobstvennogo-servera-imen-windows-server)<br>
