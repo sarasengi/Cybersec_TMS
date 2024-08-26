@@ -9,4 +9,4 @@
 ### [5 - Network security](Less5/README.md) ✔️
 ### [6 - Криптография](Less6/README.md) ✔️
 ### [7 - OWASP Top-10](Less7/README.md)
-### [8 - OWASP Top-10](Less8/README.md)
+### [8 - Типы атак 2](Less8/README.md)
