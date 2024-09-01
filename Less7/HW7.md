@@ -34,7 +34,7 @@ _CVE, CWE, CAPEC, Injection, SQL_
 
 Docker поставила на машину с Kali, чтобы не плодить кучу VPS, вот есть [мануал](https://www.kali.org/docs/containers/installing-docker-on-kali/)<br>
  ![](pics/Docker_installed_kali.png)<br>
- Контейнер с Juice Shop запустила, но заданий не выполнила, кроме одного...<br>
+ Контейнер с Juice Shop запустила, но заданий выполнила мало<br>
  ![](pics/juicashop_dockerpull.png)<br>
  ![](pics/juicashop_dockerrunls.png)<br>
  ![](pics/Juiceshop_works.png)<br>
