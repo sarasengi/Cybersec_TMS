@@ -38,7 +38,7 @@ Docker поставила на машину с Kali, чтобы не плоди�
  ![](pics/juicashop_dockerpull.png)<br>
  ![](pics/juicashop_dockerrunls.png)<br>
  ![](pics/Juiceshop_works.png)<br>
- ![](pics/JS_scoreboard.png)<br>
+ ![](pics/scoreboard.png)<br>
 
 
 ### Ссылки на дополнительные ресурсы
