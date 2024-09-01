@@ -10,4 +10,4 @@
 ### [6 - Криптография](Less6/README.md) ✔️
 ### [7 - OWASP Top-10. Типы атак 1](Less7/README.md) ✔️
 ### [8 - Типы атак 2](Less8/README.md) ✔️
-### [9 - Social_engineering](Less9/README.md)
+### [9 - Social engineering](Less9/README.md)
