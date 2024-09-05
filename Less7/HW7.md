@@ -9,6 +9,108 @@ _CVE, CWE, CAPEC, Injection, SQL_
 Пока остановилась на 7 лабе, и то она мне туго далась уже:<br>
 ![](pics/SQL.png)
 
+<details><summary>Вопросы и ответы с заданий:</summary>
+  
+1:
+
+Find the title of each film<br>
+```SELECT title FROM movies;```
+
+Find the director of each film<br>
+```SELECT director FROM movies;```
+
+Find the title and director of each film<br>
+```SELECT director,title FROM movies;```
+
+Find the title and year of each film<br>
+```SELECT title,year FROM movies;```
+
+Find all the information about each film<br>
+```SELECT * FROM movies;```
+
+2:
+
+Find the movie with a row id of 6<br>
+```SELECT * FROM movies where id=6;```
+
+Find the movies released in the years between 2000 and 2010<br>
+```SELECT * FROM movies where year between 2000 and 2010;```
+
+Find the movies not released in the years between 2000 and 2010<br>
+```SELECT * FROM movies where year not between 2000 and 2010;```
+
+Find the first 5 Pixar movies and their release year<br>
+```SELECT * FROM movies where id between 1 and 5;```
+
+3:
+
+Find all the Toy Story movies<br>
+```SELECT * FROM movies where title like "Toy Story%";```
+
+Find all the movies directed by John Lasseter<br>
+```SELECT * FROM movies where director="John Lasseter";```
+
+Find all the movies (and director) not directed by John Lasseter<br>
+```SELECT * FROM movies where not director="John Lasseter";```
+
+Find all the WALL-* movies<br>
+```SELECT * FROM movies where title like "WALL-%";```
+
+4:
+
+List all directors of Pixar movies (alphabetically), without duplicates<br>
+```SELECT DISTINCT director FROM movies order by director;```
+
+List the last four Pixar movies released (ordered from most recent to least)<br>
+```SELECT * FROM movies order by year desc limit 4;```
+
+List the first five Pixar movies sorted alphabetically<br>
+```SELECT * FROM movies order by title limit 5;```
+
+List the next five Pixar movies sorted alphabetically<br>
+```SELECT * FROM movies order by title limit 5 offset 5;```
+
+5:
+
+List all the Canadian cities and their populations<br>
+```SELECT * FROM north_american_cities where country="Canada";```
+
+Order all the cities in the United States by their latitude from north to south<br>
+```SELECT city, latitude FROM north_american_cities where country="United States" order by latitude desc;```
+
+List all the cities west of Chicago, ordered from west to east<br>
+```SELECT * FROM north_american_cities where longitude < "-87.629798" order by longitude;```
+
+List the two largest cities in Mexico (by population)<br>
+```SELECT * FROM north_american_cities WHERE country="Mexico" order by population desc limit 2;```
+
+List the third and fourth largest cities (by population) in the United States and their population<br>
+```SELECT city, population FROM north_american_cities WHERE country="United States" order by population desc limit 2 offset 2;```
+
+6:
+
+Find the domestic and international sales for each movie<br>
+```SELECT title, domestic_sales, international_sales from movies join boxoffice ON movies.id = boxoffice.movie_id;```
+
+Show the sales numbers for each movie that did better internationally rather than domestically<br>
+```SELECT title, domestic_sales, international_sales FROM movies JOIN boxoffice ON movies.id = boxoffice.movie_id where boxoffice.international_sales > boxoffice.domestic_sales;```
+
+List all the movies by their ratings in descending order<br>
+```SELECT title, rating FROM movies join boxoffice on movies.id = boxoffice.movie_id order by rating desc;```
+
+7:
+
+Find the list of all buildings that have employees<br>
+```SELECT DISTINCT building FROM employees;```
+
+Find the list of all buildings and their capacity<br>
+```SELECT * FROM buildings;```
+
+List all buildings and the distinct employee roles in each building (including empty buildings)<br>
+```SELECT DISTINCT role, building_name from buildings left join employees ON building_name = building;```
+
+</details>
+
 ### 2. Лабораторные работы по OWASP TOP 10.
 - Выполнить 2 лабораторные работы из практики Brocken Access Control<br>
   - Lab Broken Access Controll 1<br>
