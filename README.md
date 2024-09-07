@@ -12,3 +12,4 @@
 ### [8 - Типы атак 2](Less8/README.md) ✔️
 ### [9 - Social engineering](Less9/README.md) ✔️
 ### [10 - Mitre Att&ck. Часть 1](Less10/README.md)
+### [11 - Mitre Att&ck. Часть 2](Less11/README.md)
