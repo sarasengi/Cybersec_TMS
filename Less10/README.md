@@ -3,4 +3,4 @@
 
 ![](pics/mitre_matrix.png)
 
-* [Лекция](10-Mittre.pdf)
+* [Лекция](10-Mitre.pdf)
