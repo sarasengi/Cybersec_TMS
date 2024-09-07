@@ -3,5 +3,5 @@
 
 ![](pics/SI.jpg)
 
-* [Лекция](9-Social_engineering.pdf)
-* [Домашнее задание](HW9.md)
+* [Лекция](10-Mittre.pdf)
+* [Домашнее задание](HW10.md)
