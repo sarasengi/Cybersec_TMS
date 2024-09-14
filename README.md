@@ -11,5 +11,7 @@
 ### [7 - OWASP Top-10. Типы атак 1](Less7/README.md) ✔️
 ### [8 - Типы атак 2](Less8/README.md) ✔️
 ### [9 - Social engineering](Less9/README.md) ✔️
-### [10 - Mitre Att&ck. Часть 1](Less10/README.md)
-### [11 - Mitre Att&ck. Часть 2](Less11/README.md)
+### [10 - Mitre Att&ck. Часть 1](Less10/README.md) ✔️
+### [11 - Mitre Att&ck. Часть 2](Less11/README.md) ✔️
+### [12 - Законы, стандартизация](Less12/README.md)
+### [13 - Безопасность Windows](Less13/README.md)
