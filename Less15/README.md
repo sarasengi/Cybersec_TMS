@@ -1,7 +1,7 @@
 # Урок №15
 ## Защита инфраструктуры
 
-![LinuxMacOs Sec](https://img.freepik.com/premium-photo/artificial-intelligence-looking-smart-city-ai-control-city-infrastructure-data-traffic-ensure_327072-34468.jpg?w=1380)
+![InfraSec](https://img.freepik.com/premium-photo/artificial-intelligence-looking-smart-city-ai-control-city-infrastructure-data-traffic-ensure_327072-34468.jpg?w=1380)
 
 * [Лекция](15-Защита_инфраструктуры.pdf)
 
