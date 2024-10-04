@@ -15,4 +15,4 @@
 ### [11 - Mitre Att&ck. Часть 2](Less11/README.md) ✔️
 ### [12 - Законы, стандартизация](Less12/README.md) ✔️
 ### [13 - Безопасность Windows](Less13/README.md) ✔️
-### [13 - Безопасность Linux, MacOS](Less14/README.md) ✔️
+### [14 - Безопасность Linux, MacOS](Less14/README.md) ✔️
