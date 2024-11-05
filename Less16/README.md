@@ -4,6 +4,7 @@
 ![InfrSecPrac](https://img.freepik.com/premium-photo/artificial-intelligence-looking-smart-city-ai-control-city-infrastructure-data-traffic-ensure_327072-34468.jpg?w=1380)
 
 * [Лекция](16_Защита_инфр_практика.pdf)
+* [Домашняя работа](HW15_16.md)
 
 
 ## Mini-quize по прошлым темам:
