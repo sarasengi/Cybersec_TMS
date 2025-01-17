@@ -390,8 +390,6 @@ USER fluent
    ![](pics/winwazuhagent7.png)
 
 
----
-
 </details>
 
 ---
