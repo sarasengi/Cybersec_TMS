@@ -365,29 +365,29 @@ USER fluent
 
 Далее на Ubuntu зарегистрировала агента и получила ключ для него:
 
-   ![](winwazuhagent0.png)
+   ![](pics/winwazuhagent0.png)
 
-   ![](winwazuhagent00.png)
+   ![](pics/winwazuhagent00.png)
 
-   ![](winwazuhagent1.png)
+   ![](pics/winwazuhagent1.png)
 
-   ![](winwazuhagent2.png)
+   ![](pics/winwazuhagent2.png)
 
 Активировала агента на Win-хосте:
 
-   ![](winwazuhagent4.png)
+   ![](pics/winwazuhagent4.png)
 
 И зарегистрировала в wazuh:
 
-   ![](winwazuhagent5.png)
+   ![](pics/winwazuhagent5.png)
 
 Проверяем, что агент виден и всё читается:
 
-   ![](winwazuhagent3.png)
+   ![](pics/winwazuhagent3.png)
 
-   ![](winwazuhagent6.png)
+   ![](pics/winwazuhagent6.png)
 
-   ![](winwazuhagent7.png)
+   ![](pics/winwazuhagent7.png)
 
 
 ---
