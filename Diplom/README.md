@@ -189,7 +189,7 @@
 1. Установила docker-compose на свою Ubuntu:  
    `sudo apt install docker-compose -y`  
 
-2. Создала файл docker-compose.yml для установки EFK:  
+2. Создала файл docker-compose.yml для установки ELK:  
 ```
 version: '3.7'
 services:
